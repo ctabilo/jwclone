@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+}
+
+.header-derecha {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.logo img {
+    width: 60px;
+    height:60px;
+}
+.reg  {
+    font-size:x-small;
+    border: solid 1px;
+    width: 12px;
+    height: 12px;
+    text-align: center;
+    border-radius: 50%;
+}
